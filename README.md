@@ -13,7 +13,7 @@
 - 📫 熟悉燃气、供热、水务、电力等能源业务。
 - ⚡ 目前方向借助AI转型全栈开发。
 
-## BMapViewer文档教
+## BMapViewer文档
 [BMapViewer文档教程](https://banyan666.github.io/BMapViewer-docs/)
 
 ## 博客
