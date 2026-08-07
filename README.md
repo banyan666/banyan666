@@ -13,6 +13,9 @@
 - 📫 熟悉燃气、供热、水务、电力等能源业务。
 - ⚡ 目前方向借助AI转型全栈开发。
 
+## 个人站点
+[Bryan的站点](https://banyan666.github.io/my-home-page/)
+
 ## BMapViewer文档
 [BMapViewer文档教程](https://banyan666.github.io/BMapViewer-docs/)
 
