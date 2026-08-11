@@ -16,8 +16,8 @@
 ## 个人站点
 [Bryan的站点](https://banyan666.github.io/my-home-page/)
 
-## BMapViewer文档
-[BMapViewer文档教程](https://banyan666.github.io/BMapViewer-docs/)
+## BMapViewer
+[BMapViewer文档教程](https://banyan666.github.io/BMapViewer)
 
 ## 博客
 [个人博客](https://blog.csdn.net/A15029296293)
