@@ -16,8 +16,12 @@
 ## 个人站点
 [Bryan的站点](https://banyan666.github.io/my-home-page/)
 
-## BMapViewer
+## 开源项目
 [BMapViewer主页](https://banyan666.github.io/BMapViewer)
+
+[BMap3D主页](https://banyan666.github.io/BMap3D/)
+
+[DocumentViewerV3主页](https://banyan666.github.io/DocumentViewerV3/)
 
 ## 博客
 [个人博客](https://blog.csdn.net/A15029296293)
